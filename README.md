@@ -1,12 +1,11 @@
-# Banking_Power-BI
-Banking Analytics with Power BI
+**Banking Analytics with Power BI**
 
-Case Study: Unlocking Financial Insights in Banking Data
+**Case Study: Unlocking Financial Insights in Banking Data**
 
-Overview
+**Overview**
 This repository contains the Power BI project developed for the case study "Unlocking Financial Insights in Banking Data." The analysis is aimed at providing a comprehensive view of customer behaviors, transaction trends, and financial health within the banking sector, using two datasets: "Banking Transactions" and "Customer Account Details." This project showcases data cleaning, modeling, and advanced analytics using Power BI, along with the creation of an interactive dashboard to guide strategic decision-making.
 
-Objective
+**Objective**
 The primary goal of this project is to analyze banking data to uncover intricate patterns, behaviors, and relationships that drive customer relationship management, risk assessment, and product offerings. This involves:
 
 Data Cleaning and Transformation
@@ -14,12 +13,15 @@ Data Modeling with DAX
 Comprehensive Analysis and Visualization
 Building an Interactive Dashboard in Power BI
 
-Datasets
+**Datasets**
 BankingDataset1.xlsx: Contains detailed transaction data.
 BankingDataset2.xlsx: Provides insights into customer account details.
 
-Key Analysis Tasks
-Part 1: Data Cleaning, Modeling, and DAX in Power BI
+**Key Analysis Tasks**
+
+**Part 1:**
+
+Data Cleaning, Modeling, and DAX in Power BI
 Data Importing and Initial Examination
 
 Imported datasets into Power BI and conducted a preliminary data quality check.
@@ -84,8 +86,9 @@ Unusual Transactions Identification
 
 Used advanced data transformation techniques to detect unusual transactions.
 
-Part 2: Dashboard Building
-Comprehensive Banking Dashboard
+**Part 2:** 
+
+**Dashboard Building**
 
 Created a dashboard to showcase key banking metrics with interactive filters.
 Dashboard Design and Functionality
@@ -104,10 +107,10 @@ Key Insights and Data Storytelling
 
 Highlighted significant findings and trends in a storytelling format.
 
-Usage
+**Usage**
 Data Cleaning & Transformation: Review the data transformation steps in Power BI to understand the data cleaning and preparation process.
 Dashboard Interaction: Use filters and slicers on the dashboard to interact with the data and gain insights.
 DAX Formulas: Explore DAX formulas used for various calculations and analytics.
 
-Conclusion
+**Conclusion**
 This project provides a comprehensive analysis of banking data, showcasing the power of Power BI in uncovering critical financial insights. The interactive dashboard serves as a valuable tool for banking institutions to enhance customer satisfaction, optimize services, and manage financial risks effectively.
